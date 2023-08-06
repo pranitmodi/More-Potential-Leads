@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.0.1",
+    "name": "Leads tracker",
+    "description": "Made for Sales people to help in their search for potential Leads. Developed by Pranit Modi",
+    "icons": 
+    {
+        "16": "icon-16.png",
+        "48": "icon-48.png"
+    },
+    "action": 
+    {
+        "default_popup": "index.html",
+        "default_icon": "icon-16.png"
+    },
+    "permissions": 
+    [
+        "tabs"
+    ]
+}

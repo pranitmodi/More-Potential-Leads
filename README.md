@@ -1,2 +1,2 @@
 # Save URLs More Leads
- This is an chrome extension that is going to help you save tab links in the form a list and help sales people in their search for leads.
+ This <b>Chrome extension</b> will help you save active tab urls in the form of a list and help salespeople keep track of their leads.
